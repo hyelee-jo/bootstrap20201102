@@ -11,29 +11,54 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!--주석:ctrl+shift+/-->
+<div class="container">
 <table class="table">
 	<tr>
 		<th>Lorem.</th>
-		<th>Delectus.</th>
-		<th>Doloribus.</th>
+		<th>Voluptatum.</th>
+		<th>Vitae!</th>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Cum.</td>
-		<td>Laborum.</td>
+		<td>Omnis!</td>
+		<td>Minus.</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Veritatis.</td>
-		<td>Qui.</td>
+		<td>Earum!</td>
+		<td>Nesciunt!</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Numquam.</td>
-		<td>Eveniet.</td>
+		<td>Alias!</td>
+		<td>Atque.</td>
 	</tr>
-</table>	
+</table>
+</div>
 
+<div class="container-fluid">
+<table class="table">
+	<tr>
+		<th>Lorem.</th>
+		<th>Voluptatum.</th>
+		<th>Vitae!</th>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Omnis!</td>
+		<td>Minus.</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Earum!</td>
+		<td>Nesciunt!</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Alias!</td>
+		<td>Atque.</td>
+	</tr>
+</table>
+</div>
 </body>
 </html>

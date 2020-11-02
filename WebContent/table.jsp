@@ -11,29 +11,39 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!--주석:ctrl+shift+/-->
-<table class="table">
+<div class="container">
+<table class="table table-striped table-bordered table-hover table-dark">
+	<thead>
 	<tr>
 		<th>Lorem.</th>
-		<th>Delectus.</th>
-		<th>Doloribus.</th>
+		<th>Provident.</th>
+		<th>Dolorum!</th>
+		<th>Tempora.</th>
+		<th>Assumenda!</th>
+	</tr>
+	</thead>
+	<tr>
+		<td>Lorem.</td>
+		<td>Est.</td>
+		<td>Iste.</td>
+		<td>Illo.</td>
+		<td>Amet?</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Cum.</td>
-		<td>Laborum.</td>
+		<td>Facilis?</td>
+		<td>Nulla.</td>
+		<td>Explicabo.</td>
+		<td>Repudiandae!</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Veritatis.</td>
-		<td>Qui.</td>
+		<td>Dignissimos?</td>
+		<td>A.</td>
+		<td>Animi.</td>
+		<td>Ad.</td>
 	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Numquam.</td>
-		<td>Eveniet.</td>
-	</tr>
-</table>	
-
+</table>
+</div>
 </body>
 </html>
